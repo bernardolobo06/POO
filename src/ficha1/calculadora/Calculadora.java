@@ -1,4 +1,4 @@
-package calculadora;
+package ficha1.calculadora;
 
 public class Calculadora {
 

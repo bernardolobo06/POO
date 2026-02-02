@@ -1,4 +1,4 @@
-package calculadora;
+package ficha1.calculadora;
 
 import java.util.Scanner;
 
