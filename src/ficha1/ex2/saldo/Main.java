@@ -1,4 +1,4 @@
-package ficha1.saldo;
+package ficha1.ex2.saldo;
 
 import java.util.Scanner;
 

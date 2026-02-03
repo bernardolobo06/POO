@@ -1,4 +1,4 @@
-package ficha1.maximo;
+package ficha1.ex2.maximo;
 
 public class Maximo {
 

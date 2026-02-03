@@ -1,4 +1,4 @@
-package ficha1.conversao;
+package ficha1.ex2.conversao;
 
 public class Conversao {
 

@@ -1,4 +1,4 @@
-package ficha1.temperatura;
+package ficha1.ex2.temperatura;
 
 public class Temperatura {
 
