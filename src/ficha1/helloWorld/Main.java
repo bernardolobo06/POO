@@ -1,4 +1,4 @@
-package ficha1;
+package ficha1.helloWorld;
 
 import java.util.Scanner;
 
