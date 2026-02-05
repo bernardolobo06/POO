@@ -50,6 +50,7 @@ public class DiasSemana {
 
     }
 
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
 
         String input;
