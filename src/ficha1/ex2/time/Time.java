@@ -9,6 +9,7 @@ public class Time {
 
         LocalDateTime init = LocalDateTime.now();
 
+        @SuppressWarnings("unused")
         long fact = 1;
         for (int i = 1; i <= 5000; i++) fact *= i;
 
